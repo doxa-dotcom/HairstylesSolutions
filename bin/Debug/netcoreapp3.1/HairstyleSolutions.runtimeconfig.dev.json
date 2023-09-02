@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/doxa/.dotnet/store/|arch|/|tfm|",
+      "/Users/doxa/.nuget/packages"
+    ]
+  }
+}

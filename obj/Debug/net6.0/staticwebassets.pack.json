@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Clarissa-Carbungco.png",
+      "PackagePath": "staticwebassets/images/Clarissa-Carbungco.png"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Feature-Accessoires.jpg",
+      "PackagePath": "staticwebassets/images/Feature-Accessoires.jpg"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Feature-Perruques.jpg",
+      "PackagePath": "staticwebassets/images/Feature-Perruques.jpg"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Feature-Tissages.jpg",
+      "PackagePath": "staticwebassets/images/Feature-Tissages.jpg"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Feature-Tresses.jpg",
+      "PackagePath": "staticwebassets/images/Feature-Tresses.jpg"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Logo-black.png",
+      "PackagePath": "staticwebassets/images/Logo-black.png"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Logo-white.png",
+      "PackagePath": "staticwebassets/images/Logo-white.png"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Testimonial1.jpg",
+      "PackagePath": "staticwebassets/images/Testimonial1.jpg"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Testimonial2.jpg",
+      "PackagePath": "staticwebassets/images/Testimonial2.jpg"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/images/Testimonial3.jpg",
+      "PackagePath": "staticwebassets/images/Testimonial3.jpg"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/doxaboukaka/Documents/Projects/HairstyleSolutions/HairstyleSolutions/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.HairstyleSolutions.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.HairstyleSolutions.props",
+      "PackagePath": "build\\HairstyleSolutions.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.HairstyleSolutions.props",
+      "PackagePath": "buildMultiTargeting\\HairstyleSolutions.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.HairstyleSolutions.props",
+      "PackagePath": "buildTransitive\\HairstyleSolutions.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

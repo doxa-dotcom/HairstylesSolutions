@@ -1,0 +1,173 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+ /* color: #0366d6;*/
+}
+
+.btn-primary {
+/*  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;*/
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+ /* color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;*/
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+    text-align: center;
+}
+
+
+/*new starts here*/
+
+body {
+    font-family: 'poppins', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: 900;
+    padding-top: 4%;
+    padding-bottom: 1.5%;
+}
+
+p {
+    font-weight: 300;
+}
+
+.header-image {
+    width: 90%;
+    position: relative;
+    bottom: 5%;
+}
+
+.text-header {
+    font-family: 'poppins', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1;
+    font-weight: 900;
+    padding-top: 20%;
+    margin-left: 15%;
+}
+
+.images-feature {
+    border-radius: 0;
+    width: 75%;
+    height: auto;
+    padding-bottom: 8%;
+}
+
+.section-heading {
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn-lg {
+    margin: 3% 0 0 0;
+}
+
+.container-fluid {
+    padding: 2% 6% 0 6%;
+    text-align: center;
+}
+
+.header, header {
+    background: #ffeadb;
+    padding: 0 5% 0 5%;
+}
+
+.row {
+    width: 100%;
+}
+
+.services {
+    padding-bottom: 50px;
+}
+
+
+/*Testimonial-Section*/
+
+.carousel {
+    background-color: #212529;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.testimonial-text {
+    color: #cfcfcf;
+    font-size: 3rem;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+/*Social Icons*/
+
+.social-icon {
+    margin: 20px 10px;
+}
