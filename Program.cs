@@ -15,6 +15,7 @@ namespace HairstyleSolutions
         {
             CreateHostBuilder(args).Build().Run();
         }
+ 
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
@@ -23,4 +24,5 @@ namespace HairstyleSolutions
                     webBuilder.UseStartup<Startup>();
                 });
     }
+    //testing 
 }
