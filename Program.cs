@@ -24,5 +24,5 @@ namespace HairstyleSolutions
                     webBuilder.UseStartup<Startup>();
                 });
     }
-    //testing 
+    
 }
